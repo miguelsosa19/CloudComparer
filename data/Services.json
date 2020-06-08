@@ -15,6 +15,13 @@
                 "icon": "none.png"
             }
         ],
+        "Huawei Cloud": [
+            {
+                "name": "",
+                "ref": "",
+                "icon": "none.png"
+            }
+        ],
         "azure": [
             {
                 "name": "Azure shared App Services",
